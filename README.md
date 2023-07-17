@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wisdom Himura
-- 👀 This is bitcoin first generation.. I have compile it into bitcoin.exe from sources code for Windows..
+- 👀 This is first generation of Bitcoin Software.. I have compile it into bitcoin.exe from sources code for Windows..
 - 🌱 Enjoy it..
 
 For Some Coffee :<br>
